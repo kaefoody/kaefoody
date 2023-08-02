@@ -2,5 +2,5 @@
 
 -  😄  Pronouns: she/her/hers
 -  🔭  Currently learning: UX & web development
--  🌱  See my work: [kaefoody.github.io](kaefoody.github.io)
--  📫  Reach me: [LinkedIn](linkedin.com/in/kaelin-foody)
+-  🌱  See my work: kaefoody.github.io
+-  📫  Reach me: linkedin.com/in/kaelin-foody
